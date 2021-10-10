@@ -7,3 +7,8 @@ Adam Dennett: [not really](https://r-spatial.github.io/sf/reference/st_read.html
 Join the 2018 paid employee field（.csv） of New Zealand  to the spatial data（.shp）of New Zealand and make a basic map to visualize the employment status.
 
 ## 1.2 reading1
+# 1.2.1[The Value of GIS & Spatial Data Science in Achieving the Sustainable Development Goals](https://complexsystemstheory.net/2020/09/23/gis-and-the-sustainable-development-goals/)
+# Notes: 
+  UN Sustainable Development Goals (SDGs)
+  a longstanding issue for countries to meet the UN Sustainable Development Goals (SDGs) is the lack of access to relevant data and/or resources to collect data.
+  17 SDGs
