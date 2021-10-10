@@ -12,3 +12,6 @@ Join the 2018 paid employee field（.csv） of New Zealand  to the spatial data�
   1. UN Sustainable Development Goals (SDGs)
   2. a longstanding issue for countries to meet the UN Sustainable Development Goals (SDGs) is the lack of access to relevant data and/or resources to collect data.
   3. 17 SDGs
+
+## 1.2.2 [Efficient R programming](https://csgillespie.github.io/efficientR/)
+  1. **The Console pane.** Any code entered here is processed by R, line by line. This pane is ideal for interactively **testing ideas** before saving the final results in the Source pane above.
