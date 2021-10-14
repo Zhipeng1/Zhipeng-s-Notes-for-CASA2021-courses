@@ -17,4 +17,16 @@
 
 ## some common pitfalls
 1. avoid vague context in Introduction, should **get to the key point** quickly and directly, should be **impersonal and objective** in Introduction and the backgrounds of the research. ![image](https://user-images.githubusercontent.com/91874485/137258423-4b31589e-9832-4b6f-9453-91c9de9ecfe3.png)
-2. 
+2. for Literature Review, need standard citation format( Harvard Format), should be highly relevant to your topic, and also be concise, and it should show that your research is important from your review. don't just stuck all the exsiting literature together, take a critical persepective and add your comment on those. Engaging narrative should be great ![image](https://user-images.githubusercontent.com/91874485/137259481-edea3d40-bb27-4820-9fc1-b7acb7c9fbcd.png)
+3. divide your Research Question into small parts, it not only benefit your writting and thinking, but also make it more readable![image](https://user-images.githubusercontent.com/91874485/137260445-374e1872-8cfc-46e2-b0d1-a68ca3c460b3.png)
+4. methodology should be reproduced by others, need detailed explanation of your methods and if anyone use that before and why you choose that![image](https://user-images.githubusercontent.com/91874485/137261181-3f61eeb2-c8a9-4744-9de3-3e99b5fc2c8a.png)
+5. results should be clear and concise![image](https://user-images.githubusercontent.com/91874485/137261277-ea962d74-56d1-42d2-9faa-a3e644729e01.png)
+6. DIscussion![image](https://user-images.githubusercontent.com/91874485/137261389-9cafaec5-1526-4d8b-9b4d-df8533055ae4.png)
+7. Conclusion![image](https://user-images.githubusercontent.com/91874485/137261670-9829bdf3-5983-4cf5-b56b-c37313cc9aec.png)![image](https://user-images.githubusercontent.com/91874485/137261692-51f19cd8-4f93-4a48-ba92-0c0823722c52.png)
+
+
+
+
+
+
+
