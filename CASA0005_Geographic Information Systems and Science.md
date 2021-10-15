@@ -49,8 +49,8 @@ df %>%
   head()
 ```
 is the same as `head(df)`
-8.  Select different elements in a data frame or a vector/list. `data.frame[row,column]`, more specificly, `data.frame[a:b , x:y]`, the index in a row or column starts from **1**, and the result includes a and b themselves.
-9.  dplyr, contains function such as `select()`, `filter()`, `rename()`, `summarise()`...
+8. Select different elements in a data frame or a vector/list. `data.frame[row,column]`, more specificly, `data.frame[a:b , x:y]`, the index in a row or column starts from **1**, and the result includes a and b themselves.
+9. dplyr, contains function such as `select()`, `filter()`, `rename()`, `summarise()`...
 ```
 library(dplyr)
 df <- df %>%
