@@ -35,3 +35,30 @@ Data2 <- c(101:200)
 #Plot the data
 plot(Data1, Data2, col="red")
 ```
+```
+df <- data.frame(Data1, Data2)
+plot(df, col="green")
+```
+5. `c()` concatenates a string of numbers together into a vector.
+6.  in the above code, Data1 and Data2 are **vectors**, df is **data frame**
+7. `%>%`, this is called a **pipe** and is an operator is part from the **magrittr package**. magrittr is an entirely new way of thinking about R syntax that cleraly expresses a sequence of multiple operations. It is useful to think of the pipe operator as simply meaning **“then”**. Do this THEN do this THEN do that.
+```
+library(tidyverse)
+#show the first 10 and then last 10 rows of data in df...
+df %>%
+  head()
+```
+is the same as `head(df)`
+8.  Select different elements in a data frame or a vector/list. `data.frame[row,column]`, more specificly, `data.frame[a:b , x:y]`, the index in a row or column starts from **1**, and the result includes a and b themselves.
+9.  dplyr, contains function such as `select()`, `filter()`, `rename()`, `summarise()`...
+```
+library(dplyr)
+df <- df %>%
+  dplyr::rename(column1 = Data1, column2=Data2)
+  ```
+  ```
+  df %>% 
+  dplyr::select(column1)
+  ```
+10. there are other methods for selecting stuff in a data frame, as **not all spatial data is compatible with dplyr** yet, such as raster data, use $ here,`data.frame$columnName`
+`df$column1`, and `df[["column1"]]`
