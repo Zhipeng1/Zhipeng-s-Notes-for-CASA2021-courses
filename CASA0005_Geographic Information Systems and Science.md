@@ -25,3 +25,4 @@ A(Olly Dawkins):It is just to demonstrate how you can add processed files to a g
 
 ## 2.2 practical
 1. check the current work directory `getwd()`
+2. assign symbol:`<-` Use alt - to type it automatically
