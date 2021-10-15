@@ -62,5 +62,15 @@ df <- df %>%
 df %>% 
   dplyr::select(column1)
 ```
+```
+LondonBoroughs %>% 
+  dplyr::select(`Ward name`) %>%
+  print()
+```
+```
+#select columns 1,19,20 and 21
+LondonBoroughs_dplyrcols<-LondonBoroughs %>%
+  dplyr::select(c(1,19,20,21))
+```
 10. there are other methods for selecting stuff in a data frame, as **not all spatial data is compatible with dplyr** yet, such as raster data, use $ here,`data.frame$columnName`
 `df$column1`, and `df[["column1"]]`
