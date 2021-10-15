@@ -25,4 +25,13 @@ A(Olly Dawkins):It is just to demonstrate how you can add processed files to a g
 
 ## 2.2 practical
 1. check the current work directory `getwd()`
-2. assign symbol:`<-` Use alt - to type it automatically
+2. assign symbol:`<-` Use **alt -** to type it automatically
+3. remove the object `rm()`
+4.  `plot()` function for displaying data as a graphical output
+```
+#create some datasets, first a vector of 1-100 and 101-200
+Data1 <- c(1:100)
+Data2 <- c(101:200)
+#Plot the data
+plot(Data1, Data2, col="red")
+```
