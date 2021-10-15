@@ -22,3 +22,6 @@ Join the 2018 paid employee field（.csv） of New Zealand  to the spatial data�
 ## 2.1 questions from slack
 Q:I was reviewing the week 1 tutorial, and was wondering what’s the purpose of importing the CSV into the geopackage, since the data have already been joined to the map layer in the geopackage?
 A(Olly Dawkins):It is just to demonstrate how you can add processed files to a geopackage in R. The advantage of adding files to a geopackage in R, rather than manually in QGIS, is that the process will be reproducible through the code you write. This would enable someone else to use your code with the same datasets and expect the same result without manual error. Building on these skills you can automate geoprocessing workflows.
+
+## 2.2 practical
+1. check the current work directory ~~~ getwd() ~~~
