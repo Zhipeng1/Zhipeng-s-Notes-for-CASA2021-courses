@@ -24,4 +24,4 @@ Q:I was reviewing the week 1 tutorial, and was wondering what’s the purpose of
 A(Olly Dawkins):It is just to demonstrate how you can add processed files to a geopackage in R. The advantage of adding files to a geopackage in R, rather than manually in QGIS, is that the process will be reproducible through the code you write. This would enable someone else to use your code with the same datasets and expect the same result without manual error. Building on these skills you can automate geoprocessing workflows.
 
 ## 2.2 practical
-1. check the current work directory ~~~ getwd() ~~~
+1. check the current work directory `getwd()`
