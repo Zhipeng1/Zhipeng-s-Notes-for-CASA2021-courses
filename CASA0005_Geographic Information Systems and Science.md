@@ -47,19 +47,20 @@ library(tidyverse)
 #show the first 10 and then last 10 rows of data in df...
 df %>%
   head()
-```is the same as `head(df)`
+```
+is the same as `head(df)`
 
 8. Select different elements in a data frame or a vector/list. `data.frame[row,column]`, more specificly, `data.frame[a:b , x:y]`, the index in a row or column starts from **1**, and the result includes a and b themselves.
 
-9. dplyr, contains function such as `select()`, `filter()`, `rename()`, `summarise()`...
-  ```
-  library(dplyr)
-  df <- df %>%
-    dplyr::rename(column1 = Data1, column2=Data2)
-  ```
-  ```
-  df %>% 
-    dplyr::select(column1)
-  ```
+9. dplyr, contains function such as `select()`, `filter()`, `rename()`, `summarise()`
+```
+library(dplyr)
+df <- df %>%
+  dplyr::rename(column1 = Data1, column2=Data2)
+```
+```
+df %>% 
+  dplyr::select(column1)
+```
 10. there are other methods for selecting stuff in a data frame, as **not all spatial data is compatible with dplyr** yet, such as raster data, use $ here,`data.frame$columnName`
 `df$column1`, and `df[["column1"]]`
