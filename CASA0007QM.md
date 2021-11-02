@@ -45,6 +45,9 @@
 ## multilinear regression
 ![image](https://user-images.githubusercontent.com/91874485/139778582-f94088b4-b71f-4061-b6c3-d518615c8ee1.png)
 
+![image](https://user-images.githubusercontent.com/91874485/139780130-e131a5f5-b525-49b7-9f03-60240f95eb50.png)
+
+![image](https://user-images.githubusercontent.com/91874485/139780240-babbcb16-f832-41dd-916a-b20a1b09e916.png)
 
 
 
