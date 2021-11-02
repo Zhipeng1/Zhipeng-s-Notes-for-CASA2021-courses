@@ -36,6 +36,14 @@
 
 ![image](https://user-images.githubusercontent.com/91874485/139776439-d9a34029-7267-4561-bc9a-fde926e9a9f2.png)
 
+![image](https://user-images.githubusercontent.com/91874485/139778293-dabd3ab2-9f35-4123-b8e9-45ab88f96a1d.png)
+
+![image](https://user-images.githubusercontent.com/91874485/139778320-b61c19ee-da90-40ef-a669-a101ac70979b.png)
+
+![image](https://user-images.githubusercontent.com/91874485/139778408-a7a128a0-d9b9-4e19-9b36-6f98ed8b30c8.png)
+
+## multilinear regression
+![image](https://user-images.githubusercontent.com/91874485/139778582-f94088b4-b71f-4061-b6c3-d518615c8ee1.png)
 
 
 
