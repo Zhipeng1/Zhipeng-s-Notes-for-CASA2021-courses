@@ -26,6 +26,18 @@
 
 
 
+# notes for Lecture3
+![image](https://user-images.githubusercontent.com/91874485/139776513-cf4dc789-8ab4-4964-8bc8-6f2d636dbafd.png)
+
+![image](https://user-images.githubusercontent.com/91874485/139776534-c45fc7b8-ebb6-4b01-ba33-ba3535e0a683.png)
+
+![image](https://user-images.githubusercontent.com/91874485/139776574-9c0b2741-5deb-4b9f-9150-7cb5860ebaaf.png)
+
+
+![image](https://user-images.githubusercontent.com/91874485/139776439-d9a34029-7267-4561-bc9a-fde926e9a9f2.png)
+
+
+
 
 
 
