@@ -50,6 +50,9 @@
 ![image](https://user-images.githubusercontent.com/91874485/139780240-babbcb16-f832-41dd-916a-b20a1b09e916.png)
 
 
-
+# Practical 4
+Before undertaking regression, several steps should be done, which include:
+1. Converting categorical variables into **dummy variables** (a cateogircal variable of K categories or levels, usually enters a regression as a sequence of K-1 dummy variables)
+2. Dealing with **multicollinearity** (eg.If all four seasons are used, obviously there is strong multicollinearity between them) (and removing some variables if necessary),  Colinearity among variables can be detected by creating a **correlation matrix**.
 
 
