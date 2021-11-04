@@ -27,6 +27,11 @@
 
 
 # notes for Lecture3
+
+
+for research choice
+1. should be specific and need bounbary, not a big question but a focus on some thing![image](https://user-images.githubusercontent.com/91874485/140334423-44b0ff30-ffdd-4eea-9139-f856ebb69847.png)
+
 ![image](https://user-images.githubusercontent.com/91874485/139776513-cf4dc789-8ab4-4964-8bc8-6f2d636dbafd.png)
 
 ![image](https://user-images.githubusercontent.com/91874485/139776534-c45fc7b8-ebb6-4b01-ba33-ba3535e0a683.png)
